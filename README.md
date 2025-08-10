@@ -22,9 +22,6 @@ pandas
 
 Install dependencies:
 
-bash
-Copy
-Edit
 pip install opencv-python face_recognition numpy pandas
 How It Works
 Load known face images from the images directory.
